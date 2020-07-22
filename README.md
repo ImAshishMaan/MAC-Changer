@@ -7,7 +7,7 @@ MAC stands for Media Access Control. It is a unique identifier for network inter
 # How to run the script:
 1. Go to the script location.
 2. In Terminal type : sudo ./Mac-Changer.py -i [interface] -m [new mac address]
-NOTE: If you are root user then don't use sudo in above command.
+   NOTE: If you are root user then don't use sudo in above command.
 
 
 

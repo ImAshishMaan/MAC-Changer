@@ -9,5 +9,5 @@ MAC stands for Media Access Control. It is a unique identifier for network inter
 2. In Terminal type : sudo ./Mac-Changer.py -i [interface] -m [new mac address]  .
 3. NOTE: If you are root user then don't use sudo in above command.
 
-
-
+# Screenshot
+![Mac-Changer](https://user-images.githubusercontent.com/56478257/88251705-42d57680-ccc9-11ea-9355-2293ba62b169.png)
